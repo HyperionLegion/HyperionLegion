@@ -11,7 +11,7 @@ githubUsername: 'HyperionLegion'
 </em></p>
 
 [![Linkedin: joshuahsueh](https://img.shields.io/badge/-joshuahsueh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-hsueh-984435b8/)](https://www.linkedin.com/in/joshua-hsueh-984435b8/)
-<h2><a href="https://joshuahsueh.ml/">Website</a></h2>
+<h4><a href="https://joshuahsueh.ml/">Website</a></h4>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

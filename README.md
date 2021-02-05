@@ -11,16 +11,15 @@ githubUsername: 'HyperionLegion'
 </em></p>
 
 [![Linkedin: joshuahsueh](https://img.shields.io/badge/-joshuahsueh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshua-hsueh-984435b8/)](https://www.linkedin.com/in/joshua-hsueh-984435b8/)
-
+<h2><a href="https://joshuahsueh.ml/">Website</a></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const JoshuaHsueh = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C++, C, Python, Java],
-  tools: [React, Redux, Node, MongoDB, Android Studio],
-  website: "https://joshuahsueh.ml/"
+  code: [Javascript, HTML, CSS, C++, C, Python, Java, Dart],
+  tools: [React, Tailwind, Bootstrap, Flutter, Node, MongoDB, Android Studio],
 }
 ```
 

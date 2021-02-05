@@ -1,8 +1,8 @@
 ---
 title: Joshua Hsueh
 date: '02/05/2021'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
+spoiler: Student and Developer
+categories: ["student", "programming", "development", "entrepreneurship"]
 githubUsername: 'HyperionLegion'
 ---
 

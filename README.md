@@ -20,7 +20,7 @@ const JoshuaHsueh = {
   pronouns: "he" | "him",
   school: "Thomas Jefferson High School for Science and Technology",
   code: [Javascript, HTML, CSS, C++, C, Python, Java, Dart],
-  tools: [React, Tailwind, Bootstrap, Flutter, Node, MongoDB, Android Studio],
+  tools: [React, Tailwind, Bootstrap, Flutter, Node, MongoDB, Android Studio, Electron, React Native],
 }
 ```
 

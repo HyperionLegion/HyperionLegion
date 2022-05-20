@@ -18,7 +18,7 @@ githubUsername: 'HyperionLegion'
 ```javascript
 const JoshuaHsueh = {
   pronouns: "he" | "him",
-  school: "Thomas Jefferson High School for Science and Technology",
+  school: "University of Michigan",
   code: [Javascript, HTML, CSS, C++, C, Python, Java, Dart],
   tools: [React, Tailwind, Flutter, Node, Django, SQL, MongoDB, Android Studio, Electron, React Native],
 }

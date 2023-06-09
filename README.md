@@ -1,13 +1,13 @@
 ---
 title: Joshua Hsueh
 date: '01/01/2023'
-spoiler: Student and Developer
-categories: ["student", "programming", "development", "entrepreneurship"]
+spoiler: Student and Software Engineer Intern
+categories: ["student", "software engineer intern", "software development", "machine learning", "artificial intelligence", "entrepreneurship"]
 githubUsername: 'HyperionLegion'
 ---
 
 <h2> Hi, I'm Joshua Hsueh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Student at the University of Michigan. Graduate of <a href="https://www.google.com/search?q=tjhsst&oq=tjhsst+&aqs=chrome..69i57j46i131i175i199i433j69i60l5j69i65.800j0j7&sourceid=chrome&ie=UTF-8">Thomas Jefferson HS for Science & Technology </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Science Junior at the University of Michigan. Graduate of <a href="https://www.google.com/search?q=tjhsst&oq=tjhsst+&aqs=chrome..69i57j46i131i175i199i433j69i60l5j69i65.800j0j7&sourceid=chrome&ie=UTF-8">Thomas Jefferson HS for Science & Technology </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </br><a href="https://hyperionlegion.github.io/joshuahsueh/">Check out my website for more</a>
 </em></p>
 
@@ -19,8 +19,9 @@ githubUsername: 'HyperionLegion'
 const JoshuaHsueh = {
   pronouns: "he" | "him",
   school: "University of Michigan",
-  code: [Javascript, HTML, CSS, C++, C, Python, Java],
-  tools: [React, Tailwind, Node, Express, SQL, MongoDB, Android Studio, Electron, React Native],
+  languages: [C/C++, Python, JavaScript TypeScript, HTML, CSS, SQL, Go],
+  frameworks: [ReactJS, NextJS, VueJS, ElectronJS, NodeJS, REST APIs, GraphQL, PostgreSQL, MongoDB, TailwindCSS, Android Studio, AWS, Google Cloud, Firebase, Supabase, Linux, Git],
+  machineLearning: [Numpy, Keras, Pandas, PyTorch, OpenCV, Neural Networks, K-means, GPT, NLP]
 }
 ```
 

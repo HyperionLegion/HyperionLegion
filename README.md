@@ -1,6 +1,5 @@
 ---
 title: Joshua Hsueh
-date: '01/01/2023'
 spoiler: Student and Software Engineer Intern
 categories: ["student", "software engineer intern", "machine learning enthusiast"]
 githubUsername: 'HyperionLegion'

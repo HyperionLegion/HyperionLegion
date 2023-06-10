@@ -7,7 +7,12 @@ githubUsername: 'HyperionLegion'
 ---
 
 <h2> Hi, I'm Joshua Hsueh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Computer Science Junior at the University of Michigan. Graduate of <a href="https://www.google.com/search?q=tjhsst&oq=tjhsst+&aqs=chrome..69i57j46i131i175i199i433j69i60l5j69i65.800j0j7&sourceid=chrome&ie=UTF-8">Thomas Jefferson HS for Science & Technology </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em>Software Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Computer Science Junior at the University of Michigan<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em>
+
+Graduate of <a href="https://www.google.com/search?q=tjhsst&oq=tjhsst+&aqs=chrome..69i57j46i131i175i199i433j69i60l5j69i65.800j0j7&sourceid=chrome&ie=UTF-8">Thomas Jefferson HS for Science & Technology </a>
+
+Software Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 </br><a href="https://hyperionlegion.github.io/joshuahsueh/">Check out my website for more!</a>
 </p>
 

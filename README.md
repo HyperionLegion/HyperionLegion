@@ -11,7 +11,9 @@ githubUsername: 'HyperionLegion'
 </br><a href="https://hyperionlegion.github.io/joshuahsueh/">Check out my website for more!</a>
 </p>
 
-[![Linkedin: joshuahsueh](https://img.shields.io/badge/-joshuahsueh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuahsueh/)](https://www.linkedin.com/in/joshuahsueh/)
+<a href="https://hyperionlegion.github.io/joshuahsueh/pdf/Hsueh_Joshua_Resume_2024.pdf">My Resume</a>
+
+LinkedIn: [![Linkedin: joshuahsueh](https://img.shields.io/badge/-joshuahsueh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuahsueh/)](https://www.linkedin.com/in/joshuahsueh/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

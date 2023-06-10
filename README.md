@@ -1,6 +1,6 @@
 ---
 title: Joshua Hsueh
-spoiler: Student and Software Engineer Intern
+school: University of Michigan - Ann Arbor
 categories: ["student", "software engineer intern", "machine learning enthusiast"]
 githubUsername: 'HyperionLegion'
 ---

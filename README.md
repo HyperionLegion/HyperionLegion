@@ -34,7 +34,7 @@ const JoshuaHsueh = {
 
 ---
 <!-- ![Joshua's GitHub Stats](https://github-readme-stats-hyperionlegion.vercel.app/api?username=HyperionLegion&show_icons=true&theme=tokyonight) -->
-<img decoding="async" loading="lazy" align="center" alt="Andrei's GitHub Stats" src="https://github-readme-stats-hyperionlegion.vercel.app/api?username=HyperionLegion&show_icons=true&theme=tokyonight"/>
+<a href="https://github-readme-stats-hyperionlegion.vercel.app/api?username=HyperionLegion&show_icons=true&theme=tokyonight"><img decoding="async" loading="lazy" align="center" alt="Joshua's GitHub Stats" src="https://github-readme-stats-hyperionlegion.vercel.app/api?username=HyperionLegion&show_icons=true&theme=tokyonight"/></a>
 ---
 
 ⭐️ Check out my GitHub projects below:

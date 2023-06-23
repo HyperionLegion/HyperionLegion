@@ -25,7 +25,7 @@ const JoshuaHsueh = {
   pronouns: "he" | "him",
   school: "University of Michigan",
   languages: [C/C++, Python, JavaScript TypeScript, HTML, CSS, SQL, Go],
-  frameworks: [ReactJS, NextJS, VueJS, ElectronJS, NodeJS, REST APIs, GraphQL, PostgreSQL, MongoDB, TailwindCSS, Android Studio, AWS, Google Cloud, Firebase, Supabase, Linux, Git],
+  frameworks: [ReactJS, NextJS, VueJS, ElectronJS, NodeJS, REST APIs, GraphQL, PostgreSQL, MongoDB, TailwindCSS, Android Studio, Redis, AWS, Google Cloud, Firebase, Supabase, Linux, Git],
   machineLearning: [Numpy, Keras, Pandas, PyTorch, OpenCV, Neural Networks, K-means, GPT, NLP]
 }
 ```
